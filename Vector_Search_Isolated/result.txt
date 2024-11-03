@@ -1,0 +1,6 @@
+('"Scholarship Team | Fastweb" <collegetips@m.fastwebmail.com>', "It's Real: Weird Scholarships & Internships for You!", '')
+('Indeed <no-reply@indeed.com>', 'Did you forget something?', '')
+('walmart@myworkday.com', 'Thank you for your interest', '')
+('The LinkedIn Premium team <linkedin@e.linkedin.com>', 'Achieve your professional and personal goals faster with LinkedIn Premium', '')
+('Amtrak Guest Rewards <amtrak@e-mail.amtrak.com>', 'Get $930 worth of bonus points for your next trip!', '')
+('Belinda Jessup <Careers@staples-careers.com>', 'Staples, Inc. - Posted Openings for 2025 Internship Program', '')
