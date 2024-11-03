@@ -63,6 +63,8 @@ This files makes use of the InterSystem Iris Data Platform.
 
 The search result would be stored into output.txt after appfunctions.py is ran.
 
+Note that emails_received.csv has many emails that do not contain body becuase many of them load their body only when they are explicitly opened, and so are not directly on the Google server. 
+
 ---
 
 **Gmail_API.py**
