@@ -7,7 +7,7 @@ This project is built using Python as a backend and C# as a frontend. It is abou
 
 **Pre requisites:**
 
-Pip python should be installed
+Pip, python should be installed
 
 
 **Installation guide:**
@@ -16,12 +16,13 @@ The file is submitted as a raw file with hardcoded paths,the user should be upda
 ```
 git clone 
 ```
+```
 pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+```
 
 setup the gmail api and download the credentials.json. Keep the credentials and the clone file in the same directory.
 
 the csv and exe should be in the same directory. 
-
 
 
 **Usage**
