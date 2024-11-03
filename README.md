@@ -13,9 +13,9 @@ Pip python should be installed
 **Installation guide:**
 
 The file is submitted as a raw file with hardcoded paths,the user should be update the paths based on their local path.This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
-
+```
 git clone 
-
+```
 pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
 
 setup the gmail api and download the credentials.json. Keep the credentials and the clone file in the same directory.
@@ -32,8 +32,8 @@ Search space can be utilized to input queries and when the enter button is click
 
 **Contributors:**
 
-Bolong Tang
-Pascal Garcia
-Ayush Pokharel
+Bolong Tang, 
+Pascal Garcia, 
+Ayush Pokharel, 
 Arjit Magar
 
