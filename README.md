@@ -42,3 +42,22 @@ Bolong Tang,
 Pascal Garcia, 
 Ayush Pokharel, 
 Arjit Magar
+
+---
+
+**Vector_Search_Isolated**
+
+This is the folder which contains the vector search file by itself to demonstrate that the search function works.
+
+In order to use it, put appfunctions.py, emails_received.csv (generated from gmailapi.py), input.txt, and output.txt into the same folder. 
+
+Make sure that the Python file runs in the Iris environment. 
+
+The input.txt contains the inputs. 
+Line 1: search term/phrase
+Line 2: displayed result amount
+Line 3: Either DESC or ASC, meaning "ranking from most relevant", and "ranking from least relevant". 
+The latter two cannot be changed in the final Unity app. Line 2 is set at 25 and line 3 is set at DESC.
+
+This files makes use of the InterSystem Iris Data Platform.
+
