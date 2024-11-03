@@ -83,7 +83,7 @@ A finished csv file is uploaded to Vector_Search_Isolated.
 
 ---
 
-**Unity**
+**Project**
 
 This folder contains the Unity file that interactively uses Vector Search on Gmail with inputted search phrases. In it, Bevo speaks to help the user search in an entertaining way.
 
