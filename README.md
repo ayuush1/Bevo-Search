@@ -61,3 +61,4 @@ The latter two cannot be changed in the final Unity app. Line 2 is set at 25 and
 
 This files makes use of the InterSystem Iris Data Platform.
 
+The search result would be stored into output.txt after appfunctions.py is ran.
