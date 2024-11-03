@@ -85,3 +85,4 @@ The Python files in this folder differ from the ones in Vector_Search_Isolated i
 
 It contains all the C# scripts. 
 
+We've removed personal information and also used to absolute path, so those must be changed before they will work.
