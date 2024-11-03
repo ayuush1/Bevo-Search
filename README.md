@@ -62,3 +62,24 @@ The latter two cannot be changed in the final Unity app. Line 2 is set at 25 and
 This files makes use of the InterSystem Iris Data Platform.
 
 The search result would be stored into output.txt after appfunctions.py is ran.
+
+---
+
+**Gmail_API.py**
+
+This file pulls email data from Gmail and returns a dataframe with three columns 'From', 'Subject', and 'Message'. 
+
+It requires entering a personal Google API key to be used.
+
+A finished csv file is uploaded to Vector_Search_Isolated. 
+
+---
+
+**Unity**
+
+This folder contains the Unity file that interactively uses Vector Search on Gmail with inputted search phrases. In it, Bevo speaks to help the user search in an entertaining way.
+
+The Python files in this folder differ from the ones in Vector_Search_Isolated in how their paths are defined. These paths are hardcoded, while the ones in Vector_Search_Isolated are relative. 
+
+It contains all the C# scripts. 
+
