@@ -1,5 +1,8 @@
 # Bevo-Search
 
+**Devpost**
+https://devpost.com/software/bevo-search
+
 **About The Projects**
 
 This project is built using Python as a backend and Unity and C# as a frontend. Behind the gaming-styled animatated interface, where an animated Bevo is the guide, the desktop app uses InterSystem's Vector Search to optimize email search. It returns the results with the most relevance to the search queries outdoing the gmail search in long sentences.
@@ -39,4 +42,3 @@ Bolong Tang,
 Pascal Garcia, 
 Ayush Pokharel, 
 Arjit Magar
-
