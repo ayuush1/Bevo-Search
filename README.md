@@ -3,6 +3,12 @@
 **Devpost**
 https://devpost.com/software/bevo-search
 
+**YouTube**
+Bevo Search Demo HackTX 2024 (formal)
+https://youtu.be/CnssphvSQns
+Bevo Search Demo HackTX 2024 (informal)
+https://youtu.be/EL35Pg1VKWw
+
 **About The Projects**
 
 This project is built using Python as a backend and Unity and C# as a frontend. Behind the gaming-styled animatated interface, where an animated Bevo is the guide, the desktop app uses InterSystem's Vector Search to optimize email search. It returns the results with the most relevance to the search queries outdoing the gmail search in long sentences.
